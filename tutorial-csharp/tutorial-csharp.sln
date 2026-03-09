@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{228C73C8-B916-4037-9E85-9C60BDA7A887}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suma", "Suma\Suma.csproj", "{03F45C8B-1932-4922-BA04-A1503AF869B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{6CFB0F75-C540-4622-95DA-3EEDF75F5C63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{228C73C8-B916-4037-9E85-9C60BDA7A887}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{228C73C8-B916-4037-9E85-9C60BDA7A887}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{228C73C8-B916-4037-9E85-9C60BDA7A887}.Release|Any CPU.Build.0 = Release|Any CPU
-		{03F45C8B-1932-4922-BA04-A1503AF869B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03F45C8B-1932-4922-BA04-A1503AF869B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03F45C8B-1932-4922-BA04-A1503AF869B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03F45C8B-1932-4922-BA04-A1503AF869B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CFB0F75-C540-4622-95DA-3EEDF75F5C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFB0F75-C540-4622-95DA-3EEDF75F5C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFB0F75-C540-4622-95DA-3EEDF75F5C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFB0F75-C540-4622-95DA-3EEDF75F5C63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
