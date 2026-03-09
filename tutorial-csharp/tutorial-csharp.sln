@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{6CFB0F75-C540-4622-95DA-3EEDF75F5C63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operacions", "Operacions\Operacions.csproj", "{971B786B-3124-41D8-9155-79D09F8D66A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6CFB0F75-C540-4622-95DA-3EEDF75F5C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CFB0F75-C540-4622-95DA-3EEDF75F5C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CFB0F75-C540-4622-95DA-3EEDF75F5C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971B786B-3124-41D8-9155-79D09F8D66A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971B786B-3124-41D8-9155-79D09F8D66A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971B786B-3124-41D8-9155-79D09F8D66A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971B786B-3124-41D8-9155-79D09F8D66A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
