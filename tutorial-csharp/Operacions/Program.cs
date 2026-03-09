@@ -1,5 +1,5 @@
-﻿var a = 5;
-var b = 6;
+﻿var a = 5.3;
+var b = 6.9;
 
 Console.WriteLine($"{a + b}");
 Console.WriteLine($"{a - b}");
