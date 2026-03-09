@@ -11,10 +11,10 @@ var suma = a + b;
 var resta = a - b;
 var multiplicacion = a * b;
 var division = a / b;
-var porcentaje = a % b;
+var resto = a % b;
 
 Console.WriteLine($"{suma}");
 Console.WriteLine($"{resta}");
 Console.WriteLine($"{multiplicacion}");
 Console.WriteLine($"{division}");
-Console.WriteLine($"{porcentaje}");
+Console.WriteLine($"{resto}");
