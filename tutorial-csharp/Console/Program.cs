@@ -25,7 +25,8 @@ Console.WriteLine("Error: archivo no encontrado");
 
 Console.BackgroundColor = ConsoleColor.DarkBlue;
 Console.ForegroundColor = ConsoleColor.White;
-Console.WriteLine("   TÍTULO DEL PROGRAMA   ");
+Console.Write("   TÍTULO DEL PROGRAMA   ");
 
 Console.ResetColor();
+Console.WriteLine();
 Console.WriteLine("Texto normal de nuevo");
